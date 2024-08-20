@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CLA/CLA.iml" filepath="$PROJECT_DIR$/CLA/CLA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-CommandLineArguments.iml" filepath="$PROJECT_DIR$/.idea/Java-CommandLineArguments.iml" />
+    </modules>
+  </component>
+</project>
